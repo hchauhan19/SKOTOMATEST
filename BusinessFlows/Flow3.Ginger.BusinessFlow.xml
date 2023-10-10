@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GingerRepositoryItem><Header ItemGuid="a7769464-e5c3-4d0d-9ec6-10d7e6a7ca2f" ItemType="BusinessFlow" CreatedBy="HCHAUHAN" Created="202310061757" GingerVersion="23.4.0.0" Version="17" LastUpdateBy="HCHAUHAN" LastUpdate="202310061806" />
+<BusinessFlow Guid="a7769464-e5c3-4d0d-9ec6-10d7e6a7ca2f" Name="Flow3" ParentGuid="00000000-0000-0000-0000-000000000000" Source="Ginger" Status="Unknown">
+<Activities>
+<Activity Active="True" ActivitiesGroupID="Group" ActivityName="Activity 3" Guid="9b96d153-caca-4c59-8af0-8205c230b4ad" ParentGuid="9b96d153-caca-4c59-8af0-8205c230b4ad" Type="Link" />
+</Activities>
+
+<ActivitiesGroups>
+<ActivitiesGroup Guid="f842bc32-bdf1-47cd-86a0-5652064ea410" Name="Group" ParentGuid="00000000-0000-0000-0000-000000000000">
+<ActivitiesIdentifiers>
+<ActivityIdentifiers ActivityAutomationStatus="Automated" ActivityGuid="9b96d153-caca-4c59-8af0-8205c230b4ad" ActivityName="Activity 3" ActivityParentGuid="9b96d153-caca-4c59-8af0-8205c230b4ad" Guid="1671fe9d-3f05-43ec-8275-7a29b52df577" ParentGuid="00000000-0000-0000-0000-000000000000" />
+</ActivitiesIdentifiers>
+</ActivitiesGroup>
+</ActivitiesGroups>
+
+<TargetApplications>
+<TargetApplication AppName="API" Guid="7a86ea98-0dda-4fc3-a03e-f673141da13e" ParentGuid="7f78aa3f-2e2e-4f9d-b327-0380cf73bbb0" />
+<TargetApplication AppName="PowerBuilder" Guid="f436d2e9-012b-4e6f-bd78-819988bcdaf5" ParentGuid="92863377-0b13-4d67-9707-01cbd572be34" />
+</TargetApplications>
+</BusinessFlow></GingerRepositoryItem>

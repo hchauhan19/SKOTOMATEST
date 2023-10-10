@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GingerRepositoryItem><Header ItemGuid="823e1766-5e72-4a80-bd95-066de705ba5b" ItemType="Activity" CreatedBy="HCHAUHAN" Created="202310061759" GingerVersion="23.4.0.0" Version="2" LastUpdateBy="HCHAUHAN" LastUpdate="202310061801" />
+<Activity ActionRunOption="StopActionsRunOnFailure" Active="True" ActivityName="Activity 4" AutomationStatus="Automated" ErrorHandlerMappingType="ErrorHandlersMatchingTrigger" Guid="823e1766-5e72-4a80-bd95-066de705ba5b" ParentGuid="00000000-0000-0000-0000-000000000000" PercentAutomated="0%" POMMetaDataId="00000000-0000-0000-0000-000000000000" Publish="True" TargetApplication="APLA_API" Type="Regular">
+<ConsumerApplications>
+<Consumer ConsumerGuid="acfdabd9-f260-4577-8d9b-3b967742067b" Guid="97faa260-3a9b-46ce-bbeb-0305bccd43ca" ParentGuid="00000000-0000-0000-0000-000000000000" />
+<Consumer ConsumerGuid="b89b322b-24cd-4479-85dd-ef16f3939ddd" Guid="1f0a710c-fdf3-4698-a314-dec00db0ee35" ParentGuid="00000000-0000-0000-0000-000000000000" />
+</ConsumerApplications>
+</Activity></GingerRepositoryItem>

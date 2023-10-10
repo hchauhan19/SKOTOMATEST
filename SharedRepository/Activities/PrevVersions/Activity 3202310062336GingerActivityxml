@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GingerRepositoryItem><Header ItemGuid="9b96d153-caca-4c59-8af0-8205c230b4ad" ItemType="Activity" CreatedBy="HCHAUHAN" Created="202310061805" GingerVersion="23.4.0.0" Version="3" LastUpdateBy="HCHAUHAN" LastUpdate="202310061805" />
+<Activity ActionRunOption="StopActionsRunOnFailure" Active="True" ActivitiesGroupID="Group" ActivityName="Activity 3" AutomationStatus="Automated" ErrorHandlerMappingType="ErrorHandlersMatchingTrigger" Guid="9b96d153-caca-4c59-8af0-8205c230b4ad" ParentGuid="9b96d153-caca-4c59-8af0-8205c230b4ad" PercentAutomated="100%" POMMetaDataId="00000000-0000-0000-0000-000000000000" Publish="True" TargetApplication="API" Type="Regular">
+<Acts>
+<ActDummy Active="True" Description="Dummy Action 3" Guid="81ca750d-c53b-4930-b910-81bbd7413963" ParentGuid="00000000-0000-0000-0000-000000000000" Platform="NA" RetryMechanismInterval="5" StatusConverter="None" WindowsToCapture="OnlyActiveWindow">
+<InputValues>
+<ActInputValue Guid="5554a024-e611-4e42-a270-5780dede3fa1" Param="Value" ParentGuid="00000000-0000-0000-0000-000000000000" />
+</InputValues>
+</ActDummy>
+</Acts>
+
+<ConsumerApplications>
+<Consumer ConsumerGuid="92863377-0b13-4d67-9707-01cbd572be34" Guid="bd75011f-9be9-4147-93b4-f35581216ca3" ParentGuid="00000000-0000-0000-0000-000000000000" />
+</ConsumerApplications>
+</Activity></GingerRepositoryItem>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GingerRepositoryItem><Header ItemGuid="af280d9c-6d56-475e-ad06-30ca7a7fb674" ItemType="BusinessFlow" CreatedBy="HCHAUHAN" Created="202310061758" GingerVersion="23.4.0.0" Version="12" LastUpdateBy="HCHAUHAN" LastUpdate="202310061807" />
+<BusinessFlow Guid="af280d9c-6d56-475e-ad06-30ca7a7fb674" Name="Flow4" ParentGuid="00000000-0000-0000-0000-000000000000" Source="Ginger" Status="Unknown">
+<Activities>
+<Activity Active="True" ActivitiesGroupID="Group" ActivityName="Activity 4" Guid="823e1766-5e72-4a80-bd95-066de705ba5b" ParentGuid="823e1766-5e72-4a80-bd95-066de705ba5b" Type="Link" />
+</Activities>
+
+<ActivitiesGroups>
+<ActivitiesGroup Guid="24f37300-9b89-40a4-9171-0e8cf523f5b7" Name="Group" ParentGuid="00000000-0000-0000-0000-000000000000">
+<ActivitiesIdentifiers>
+<ActivityIdentifiers ActivityAutomationStatus="Automated" ActivityGuid="823e1766-5e72-4a80-bd95-066de705ba5b" ActivityName="Activity 4" ActivityParentGuid="823e1766-5e72-4a80-bd95-066de705ba5b" Guid="40d55c99-e878-44e2-ba29-acd002d7f7ae" ParentGuid="00000000-0000-0000-0000-000000000000" />
+</ActivitiesIdentifiers>
+</ActivitiesGroup>
+</ActivitiesGroups>
+
+<TargetApplications>
+<TargetApplication AppName="Mediation" Guid="ea5b9609-74ae-42a5-8dd9-827a1269c21d" ParentGuid="acfdabd9-f260-4577-8d9b-3b967742067b" />
+<TargetApplication AppName="DOS" Guid="ac4692f6-1081-4654-99aa-e87df54dbc23" ParentGuid="b89b322b-24cd-4479-85dd-ef16f3939ddd" />
+<TargetApplication AppName="API" Guid="d27e951e-10b1-4a52-920e-f69d788ffd87" ParentGuid="7f78aa3f-2e2e-4f9d-b327-0380cf73bbb0" />
+</TargetApplications>
+</BusinessFlow></GingerRepositoryItem>
